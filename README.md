@@ -1,2 +1,52 @@
-# SahilD
-Intro
+### 👋 Hi there!
+
+I'm [Sahil](https://www.linkedin.com/in/your-link), a Cloud Engineer passionate about building scalable, secure, and automated cloud infrastructure using AWS ☁️ and DevOps tools 🚀.
+
+I began my journey at Amazon Web Services (AWS), supporting global customers in troubleshooting, optimizing, and scaling their cloud environments. That hands-on experience gave me a strong foundation across core cloud services and helped me develop a practical, problem-solving mindset.
+
+I enjoy working on infrastructure automation and continuously exploring better ways to design, deploy, and manage cloud-native solutions. I believe in keeping things simple, working smart, and building systems that are easy to maintain and scale.
+
+
+---
+
+### 🛠️ Tech Stack
+
+<p float="left">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" title="Python" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" title="AWS" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" title="Docker" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="70" title="CI/CD" />
+</p>
+
+---
+##🏅 AWS Certification
+
+[![AWS Certified Developer – Associate](https://images.credly.com/size/130x130/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/128e6e1c-df1e-4545-93d6-ac9593e8bf87/public_url)
+[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/130x130/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/120bc79f-e47a-4140-9df6-0d27108d402f/public_url)
+[![AWS Knowledge: Serverless](https://images.credly.com/size/130x130/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](https://www.credly.com/badges/de7bded9-a8af-4977-bb9e-913c910d3df6/public_url)
+
+---
+
+### 🔧 DevOps & Infra Tools
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="60" title="Prometheus" />
+  <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="60" title="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" title="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" title="Git" />
+</p>
+
+---
+
+### 🔗 Let’s Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/sahil-duduskar-☁️-266274225)
+- 💻 [GitHub](https://github.com/sa-uwu)
+- 📫 [Email](sahild967@gmail.com)
+
+---
+
+> 🧠 Learn &nbsp;→&nbsp; 🏗️ Build &nbsp;→&nbsp; ❌ Make mistakes &nbsp;→&nbsp; 🔁 Repeat  
+
+
