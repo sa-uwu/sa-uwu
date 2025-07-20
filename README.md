@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm [Sahil](https://www.linkedin.com/in/sahil-duduskar-%E2%98%81%EF%B8%8F-266274225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9OOCzNW%2FSxO4kkQZMDTquA%3D%3D), a Cloud Engineer passionate about building scalable, secure, and automated cloud infrastructure using AWS ☁️ and DevOps tools🚀.
+I'm [Sahil](https://www.linkedin.com/in/sahil-duduskar-%E2%98%81%EF%B8%8F-266274225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9OOCzNW%2FSxO4kkQZMDTquA%3D%3D), a Cloud Engineer passionate about building scalable, secure, and automated cloud infrastructure using AWS ☁️ and DevOps tools 🚀.
 
 I began my journey at Amazon Web Services (AWS), supporting global customers in troubleshooting, optimizing, and scaling their cloud environments. That hands-on experience gave me a strong foundation across core cloud services and helped me develop a practical, problem-solving mindset.
 
