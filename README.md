@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm [Sahil](https://www.linkedin.com/in/your-link), a Cloud Engineer passionate about building scalable, secure, and automated cloud infrastructure using AWS ☁️ and DevOps tools 🚀.
+I'm [Sahil](www.linkedin.com/in/sahil-duduskar-☁️-266274225), a Cloud Engineer passionate about building scalable, secure, and automated cloud infrastructure using AWS ☁️ and DevOps tools 🚀.
 
 I began my journey at Amazon Web Services (AWS), supporting global customers in troubleshooting, optimizing, and scaling their cloud environments. That hands-on experience gave me a strong foundation across core cloud services and helped me develop a practical, problem-solving mindset.
 
@@ -41,11 +41,18 @@ I enjoy working on infrastructure automation and continuously exploring better w
 
 ### 🔗 Let’s Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/sahil-duduskar-☁️-266274225)
-- 💻 [GitHub](https://github.com/sa-uwu)
-- 📫 [Email](sahild967@gmail.com)
-
+<a href="www.linkedin.com/in/sahil-duduskar-☁️-266274225" target="_blank">
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/LI-In-Bug.png" alt="LinkedIn" width="30" height="30">
+</a>
+<a href="https://github.com/sa-uwu" target="_blank">
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/github-mark.png" alt="GitHub" width="30" height="30">
+</a>
+<a href="mailto:sahild967@gmail.com">
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/gmail.png" alt="Email" width="30" height="30" style="margin-right:50px;">
+</a>
+    
 ---
+
 
 > 🧠 Learn &nbsp;→&nbsp; 🏗️ Build &nbsp;→&nbsp; ❌ Make mistakes &nbsp;→&nbsp; 🔁 Repeat  
 
