@@ -13,9 +13,9 @@ I enjoy working on infrastructure automation and continuously exploring better w
 
 <p float="left">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" title="Python" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" title="AWS" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" title="Docker" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="70" title="CI/CD" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/aws.gif" height="90" title="AWS" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/docker.gif" height="90" title="Docker" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/devops-testing.gif" height="90" title="CI/CD" />
 </p>
 
 ---
@@ -30,11 +30,11 @@ I enjoy working on infrastructure automation and continuously exploring better w
 ### 🔧 DevOps & Infra Tools
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="60" title="Prometheus" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" height="60" title="Prometheus" />
   <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="60" title="Grafana"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" title="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" title="Git" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/linux-original.svg" height="60" title="Linux" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/git-original.svg" height="60" title="Git" />
 </p>
 
 ---
