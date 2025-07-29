@@ -44,7 +44,7 @@ I enjoy working on infrastructure automation and continuously exploring better w
 <a href="https://www.linkedin.com/in/sahil-duduskar-%E2%98%81%EF%B8%8F-266274225">
   <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/LI-In-Bug.png" alt="LinkedIn" width="30" height="30">
 </a>
-<a href="https://github.com/sa-uwu" target="_blank">
+<a href="https://github.com/sa-uwu">
   <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/github-mark.png" alt="GitHub" width="30" height="30">
 </a>
 <a href="mailto:sahild967@gmail.com">
