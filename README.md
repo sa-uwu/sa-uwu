@@ -33,6 +33,7 @@ I enjoy working on infrastructure automation and continuously exploring better w
   <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" height="60" title="Prometheus" />
   <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="60" title="Grafana"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" title="Terraform" />
+  <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/Ansible-Community-Logo-RGB-White.svg" height="65" title="Ansible">
   <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/linux-original.svg" height="60" title="Linux" />
   <img src="https://github.com/sa-uwu/sa-uwu/blob/main/img/git-original.svg" height="60" title="Git" />
 </p>
